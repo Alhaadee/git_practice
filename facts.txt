@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Random fact 
 
 Suds
 
 Penguins are fast
+=======
+>>>>>>> parent of 048b797 (added a random fact)
